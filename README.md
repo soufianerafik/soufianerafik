@@ -17,4 +17,10 @@ Feel free to reach out to me for any software projects or collaborations. Let's 
     width="24"
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/soufianerafik/soufianerafik/master/assets/icons/medium.svg"
+  /></a>  
+<a href="https://unsplash.com/@soufianerafik" title="Follow me on Unsplash">
+  <img
+    width="22"
+    alt="Follow me on Unsplash"
+    src="./assets/icons/unsplash.svg"
   /></a>
