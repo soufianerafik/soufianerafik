@@ -22,5 +22,5 @@ Feel free to reach out to me for any software projects or collaborations. Let's 
   <img
     width="22"
     alt="Follow me on Unsplash"
-    src="./assets/icons/unsplash.svg"
+    src="https://raw.githubusercontent.com/soufianerafik/soufianerafik/master/assets/icons/unsplash.svg"
   /></a>
