@@ -1,16 +1,30 @@
-### Hi there! 
+# 👋 Hi, I’m Soufiane (pronounced: *Souf-Yen*)  
 
-I'm Soufiane (pronounced: Souf-Yen), and I work as a full-time Senior Software Engineer. My journey has led me to collaborate with diverse clients from government agencies, universities, and startups, where I've developed software solutions that are user-friendly, secure, and reliable.
+I'm a **Senior Software Engineer** passionate about building secure, user-friendly, accessible and reliable software. Over the years, I’ve collaborated with clients ranging from **government agencies** and **universities** to **startups**, developing solutions that meet diverse needs and solve real-world problems.  
 
-My main focus has been on full-stack development, utilizing technologies like  Angular/NgRx, NestJS/Node.js, Postgres, MongoDB, and Redis. With this diverse skill set, I possess a solid foundation in object-oriented programming, relational databases, and API development.
+## 💻 What I Do  
+I specialize in **full-stack development**, leveraging tools and technologies like:  
+- **Frontend:** Angular / NgRx, HTML, CSS, JavaScript, jQuery  
+- **Backend:** NestJS / Node.js, Python / Django, FastAPI, Flask  
+- **Databases:** PostgreSQL, MongoDB, Redis, SQL Server, MySQL  
 
-Before my professional career, I gained valuable experience in various industries, from restaurants and coffee shops to retail and tech. These experiences taught me effective communication and business skills while emphasizing the importance of software in business success.
+With a solid background in **object-oriented & functional programming**, **API development**, and **relational databases**, I thrive in building scalable, accessible and maintainable systems that just work.  
 
-Outside of coding, I enjoy pursuing photography, collecting records, and creating music. These creative hobbies inspire me and help me explore my technical skills in a fun and exciting way.
+## 🌱 My Journey  
+Before diving into tech full-time, I worked in **restaurants, coffee shops, retail, and tech**, where I discovered how software can drive business success. These experiences also helped me develop strong **communication** and **business skills**—traits I carry with me into every project I build today.  
 
-Feel free to reach out to me for any software projects or collaborations. Let's build something great together! ✌🏼
+## 🎵 Beyond Code  
+When I’m not coding, I enjoy:  
+- 📸 Photography  
+- 🎶 Collecting records & making music  
 
-### I'm also on
+These hobbies spark my creativity and fuel new perspectives on my technical work.  
+
+---
+
+If you have a project idea or are looking to collaborate, **feel free to reach out!** Let's build something amazing together. ✌🏼  
+
+## 🌎 I'm also on
 
 <a href="https://medium.com/@soufianerafik" title="Follow me on Medium">
   <img
