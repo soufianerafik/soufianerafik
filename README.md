@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Soufiane (pronounced: *Souf-Yen*)  
+I'm a **Senior Software Engineer** with a passion for building secure, user-friendly, and reliable software that solves real-world problems.  
+Over the years, I’ve collaborated with **government agencies**, **universities**, and **startups**, delivering solutions that scale and make a meaningful impact.
 
-I'm a **Senior Software Engineer** passionate about building secure, user-friendly, accessible and reliable software. Over the years, I’ve collaborated with clients ranging from **government agencies** and **universities** to **startups**, developing solutions that meet diverse needs and solve real-world problems.  
 
 ## 💻 What I Do  
 I have extensive experience in full-stack development, leveraging tools and technologies like:
@@ -9,23 +10,24 @@ I have extensive experience in full-stack development, leveraging tools and tech
 - **Databases:** PostgreSQL, MongoDB, Redis, SQL Server, MySQL
 - **DevOps & Infrastructure:** Kubernetes, Helm, Flux, Docker, Linux, GitHub Actions
 
-With a solid background in **object-oriented & functional programming**, **API development**, and **relational databases**, I thrive in building scalable, accessible and maintainable systems that just work.  
+I enjoy designing clean, scalable systems and writing maintainable code that teams can trust and build on. 
 
 ## 🌱 My Journey  
-Before diving into tech full-time, I worked in **restaurants, coffee shops, retail, and tech**, where I discovered how software can drive business success. These experiences also helped me develop strong **communication** and **business skills**—traits I carry with me into every project I build today.  
+Before entering tech full-time, I worked in restaurants, retail, coffee shops, and support roles — experiences that shaped how I think about **people**, **products**, and how software can drive business success. They also gave me strong **communication and business skills** — traits I carry with me into every project I build today.  
 
 ## 🎵 Beyond Code  
-When I’m not coding, I enjoy:  
-- 📸 Photography  
-- 🎶 Collecting records & making music  
+When I’m not building software, I’m usually:
+- 🎶 Making music or digging through vinyl crates
+- 📸 Shooting/Editing photos
 
-These hobbies spark my creativity and fuel new perspectives on my technical work.  
+These creative outlets help me stay curious and recharge. 
 
----
+## 🤝 Let’s Connect
 
-If you have a project idea or are looking to collaborate, **feel free to reach out!** Let's build something amazing together. ✌🏼  
+Have a project in mind? Just want to chat about dev tools, music, or systems design?  
+**Reach out — I'm always open to connecting.**
 
-## 🌎 I'm also on
+## 🌎 Find Me On
 
 <a href="https://medium.com/@soufianerafik" title="Follow me on Medium">
   <img
