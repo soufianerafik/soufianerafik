@@ -3,14 +3,17 @@ I'm a **Senior Software Engineer** with a passion for building secure, user-frie
 Over the years, I’ve collaborated with **government agencies**, **universities**, and **startups**, delivering solutions that scale and make a meaningful impact.
 
 
-## 💻 What I Do  
-I have extensive experience in full-stack development, leveraging tools and technologies like:
-- **Frontend:** Angular / NgRx, HTML, CSS/SCSS, TypeScript/JavaScript, jQuery, Material, Bootstrap, Web Accessibility
-- **Backend:** NestJS / Node.js, Python / Django, FastAPI, Flask  
-- **Databases:** PostgreSQL, MongoDB, Redis, SQL Server, MySQL
-- **DevOps & Infrastructure:** Kubernetes, Helm, Flux, Docker, Linux, GitHub Actions
+## 💻 What I Do
+I'm a generalist full-stack developer with hands-on experience across:
 
-I enjoy designing clean, scalable systems and writing maintainable code that teams can trust and build on. 
+- **Frontend:** Angular, NgRx, TypeScript, HTML, SCSS, Material, Bootstrap, Accessibility  
+- **Backend:** NestJS, Node.js, Django, FastAPI, Flask  
+- **Databases:** PostgreSQL, Redis, MongoDB, MySQL, SQL Server  
+- **DevOps & Infrastructure:** Kubernetes, Helm, Flux, Docker, Linux, GitHub Actions  
+
+I bring a strong **product mindset** and **entrepreneurial spirit** to every project. I focus on building full experiences that solve real problems, scale well, and make sense to the user.
+
+I care about writing clean, maintainable code and designing systems teams can trust and build on.
 
 ## 🌱 My Journey  
 Before entering tech full-time, I worked in restaurants, retail, coffee shops, and support roles — experiences that shaped how I think about **people**, **products**, and how software can drive business success. They also gave me strong **communication and business skills** — traits I carry with me into every project I build today.  
@@ -24,8 +27,9 @@ These creative outlets help me stay curious and recharge.
 
 ## 🤝 Let’s Connect
 
-Have a project in mind? Just want to chat about dev tools, music, or systems design?  
-**Reach out — I'm always open to connecting.**
+Have a project in mind? Want to chat about systems design, product ideas, tooling or music?  
+I love connecting with other engineers, founders, and builders.  
+**Feel free to reach out — I’m always open to good conversations.**
 
 ## 🌎 Find Me On
 
